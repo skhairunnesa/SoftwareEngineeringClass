@@ -1,7 +1,7 @@
 An h1 header
 ============
 
-Paragraphs are separated by a blank line. That is quite obvious.
+Paragraphs are separated by a blank line. That is quite obvious. I am editing in the main.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:

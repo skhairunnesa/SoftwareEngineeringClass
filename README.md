@@ -2,6 +2,7 @@ An h1 header
 ============
 
 Paragraphs are separated by a blank line. That is quite obvious.
+Can we edit in the same file?
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:

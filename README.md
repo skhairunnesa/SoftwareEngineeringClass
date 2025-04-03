@@ -2,7 +2,7 @@ An h1 header
 ============
 
 
-Paragraphs are separated by a blank line.
+Paragraphs are separated by a blank line. This is the new-feature branch.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:

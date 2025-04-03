@@ -4,6 +4,7 @@ An h1 header
 
 Paragraphs are separated by a blank line. This is a change in the new-feature branch. Can we simulate merge conflict?
 
+
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
